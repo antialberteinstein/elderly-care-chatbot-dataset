@@ -1,0 +1,15 @@
+# Core dependencies for Google Gemini API
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# Data processing and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+requests>=2.31.0
+colorama>=0.4.6  # For colored terminal output
+
+# Optional: For future export features
+openpyxl>=3.1.0  # Excel export
+PyYAML>=6.0      # YAML export
